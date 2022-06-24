@@ -1,2 +1,0 @@
-com/example/final_datapenduduk_71190429/BuildConfig.java
- com.example.final_datapenduduk_71190429.BuildConfig
