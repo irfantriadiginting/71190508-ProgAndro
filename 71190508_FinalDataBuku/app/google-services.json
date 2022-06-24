@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "979169710151",
+    "project_id": "finaldatabuku",
+    "storage_bucket": "finaldatabuku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979169710151:android:0fbe610337301c2f776162",
+        "android_client_info": {
+          "package_name": "id.ac.ukdw.a71190508_finaldatabuku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979169710151-a4rmbpk6bqqqr21ljsah6ar7vt9lqjt9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.ac.ukdw.a71190508_finaldatabuku",
+            "certificate_hash": "685afd2b7289f3b4f2554666a8c4a10ccb05877a"
+          }
+        },
+        {
+          "client_id": "979169710151-4gofe4tbfet7thfrhssk3m4o2as6vn6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvUrL27PKGrCy1onQeQM1bgDobJMTXJk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979169710151-4gofe4tbfet7thfrhssk3m4o2as6vn6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
