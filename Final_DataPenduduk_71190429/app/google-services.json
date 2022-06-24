@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792977242443",
+    "project_id": "final-datapenduduk-71190429",
+    "storage_bucket": "final-datapenduduk-71190429.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792977242443:android:c6616398660984b32410ce",
+        "android_client_info": {
+          "package_name": "com.example.final_datapenduduk_71190429"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792977242443-0iluirbebb7bf4slp96pur7m71k14l40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK6apIOm9WKZglZdsN9CcG1TdTGy7KVck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792977242443-0iluirbebb7bf4slp96pur7m71k14l40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
